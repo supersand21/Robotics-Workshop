@@ -1,2 +1,2 @@
 # Robotics-Workshop
-Worksheets and resources created for my university society robotics workshop.
+Robotics workshops worksheets and resources created for HackSussex, the computer science society in Sussex University. 
